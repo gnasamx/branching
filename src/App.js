@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Change: Feature Branch One
+          Change: Feature Branch Two - From Main 1
         </p>
       </header>
     </div>
